@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>TP_Mi_Web_Personal_AGUSTIN_DE_MARCO</RootNamespace>
+    <RootNamespace>Mi_Web_mvc</RootNamespace>
   </PropertyGroup>
 
 </Project>

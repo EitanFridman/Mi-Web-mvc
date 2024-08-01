@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TP-Mi-Web-Personal-AGUSTIN-DE-MARCO")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Mi-Web-mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("TP-Mi-Web-Personal-AGUSTIN-DE-MARCO")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TP-Mi-Web-Personal-AGUSTIN-DE-MARCO")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24f5aecec0479081f0c91f47df69ddb8e7024f4f")]
+[assembly: System.Reflection.AssemblyProductAttribute("Mi-Web-mvc")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Mi-Web-mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

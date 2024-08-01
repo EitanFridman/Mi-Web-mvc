@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace TP_Mi_Web_Personal_AGUSTIN_DE_MARCO.Models
+namespace Mi_Web_mvc.Models
 {
     public static class Datos
     {

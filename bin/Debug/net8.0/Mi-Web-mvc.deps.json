@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "TP-Mi-Web-Personal-AGUSTIN-DE-MARCO/1.0.0": {
+      "Mi-Web-mvc/1.0.0": {
         "runtime": {
-          "TP-Mi-Web-Personal-AGUSTIN-DE-MARCO.dll": {}
+          "Mi-Web-mvc.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "TP-Mi-Web-Personal-AGUSTIN-DE-MARCO/1.0.0": {
+    "Mi-Web-mvc/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

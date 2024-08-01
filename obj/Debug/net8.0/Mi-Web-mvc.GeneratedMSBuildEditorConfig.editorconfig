@@ -7,53 +7,53 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = TP_Mi_Web_Personal_AGUSTIN_DE_MARCO
-build_property.RootNamespace = TP_Mi_Web_Personal_AGUSTIN_DE_MARCO
-build_property.ProjectDir = c:\Users\48242472\Downloads\TP-Mi-Web-Personal-Fridman\
+build_property.RootNamespace = Mi_Web_mvc
+build_property.RootNamespace = Mi_Web_mvc
+build_property.ProjectDir = C:\Users\48242472\Desktop\Mi-Web-mvc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\48242472\Downloads\TP-Mi-Web-Personal-Fridman
+build_property.MSBuildProjectDirectory = C:\Users\48242472\Desktop\Mi-Web-mvc
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/48242472/Downloads/TP-Mi-Web-Personal-Fridman/Views/Home/Certificados.cshtml]
+[C:/Users/48242472/Desktop/Mi-Web-mvc/Views/Home/Certificados.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDZXJ0aWZpY2Fkb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/48242472/Downloads/TP-Mi-Web-Personal-Fridman/Views/Home/Idiomas.cshtml]
+[C:/Users/48242472/Desktop/Mi-Web-mvc/Views/Home/Idiomas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJZGlvbWFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/48242472/Downloads/TP-Mi-Web-Personal-Fridman/Views/Home/Index.cshtml]
+[C:/Users/48242472/Desktop/Mi-Web-mvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/48242472/Downloads/TP-Mi-Web-Personal-Fridman/Views/Home/Privacy.cshtml]
+[C:/Users/48242472/Desktop/Mi-Web-mvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/48242472/Downloads/TP-Mi-Web-Personal-Fridman/Views/Home/Proyectos.cshtml]
+[C:/Users/48242472/Desktop/Mi-Web-mvc/Views/Home/Proyectos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm95ZWN0b3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/48242472/Downloads/TP-Mi-Web-Personal-Fridman/Views/Shared/Error.cshtml]
+[C:/Users/48242472/Desktop/Mi-Web-mvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/48242472/Downloads/TP-Mi-Web-Personal-Fridman/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/48242472/Desktop/Mi-Web-mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/48242472/Downloads/TP-Mi-Web-Personal-Fridman/Views/_ViewImports.cshtml]
+[C:/Users/48242472/Desktop/Mi-Web-mvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/48242472/Downloads/TP-Mi-Web-Personal-Fridman/Views/_ViewStart.cshtml]
+[C:/Users/48242472/Desktop/Mi-Web-mvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/48242472/Downloads/TP-Mi-Web-Personal-Fridman/Views/Shared/_Layout.cshtml]
+[C:/Users/48242472/Desktop/Mi-Web-mvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-z1xlzq3h3a
+build_metadata.AdditionalFiles.CssScope = b-9zhftkca81

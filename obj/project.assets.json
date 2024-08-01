@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\48242472\\Downloads\\TP-Mi-Web-Personal-Fridman\\TP-Mi-Web-Personal-AGUSTIN-DE-MARCO.csproj",
-      "projectName": "TP-Mi-Web-Personal-AGUSTIN-DE-MARCO",
-      "projectPath": "C:\\Users\\48242472\\Downloads\\TP-Mi-Web-Personal-Fridman\\TP-Mi-Web-Personal-AGUSTIN-DE-MARCO.csproj",
+      "projectUniqueName": "C:\\Users\\48242472\\Desktop\\Mi-Web-mvc\\Mi-Web-mvc.csproj",
+      "projectName": "Mi-Web-mvc",
+      "projectPath": "C:\\Users\\48242472\\Desktop\\Mi-Web-mvc\\Mi-Web-mvc.csproj",
       "packagesPath": "C:\\Users\\48242472\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\48242472\\Downloads\\TP-Mi-Web-Personal-Fridman\\obj\\",
+      "outputPath": "C:\\Users\\48242472\\Desktop\\Mi-Web-mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
