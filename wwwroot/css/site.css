@@ -121,13 +121,8 @@
   text-align: center;
 } */
 
-
-
-
-
-
 body {
-  background-color: #1b1b1b;
+  background-color: #1c1c1c !important;;
   color: #f0f0f0;
   font-family: 'Arial', sans-serif;
 }
@@ -196,6 +191,11 @@ h5.card-title{
   bottom: .5rem;
 }
 
+div.card.proyecto.mb-4{
+  background-color: #2a2a2a;
+  border-color: #f0f0f0;
+}
+
 .card.border-light:hover {
   border: 1px solid #00adb5;
   transition: border 0.3s ease;
@@ -209,12 +209,3 @@ h5.card-title{
   text-align: center;
 }
 
-.container{
-  background-color: #2a2a2a;
-}
-
-
-div.card.proyecto.mb-4{
-  background-color: #2a2a2a;
-  border-color: #f0f0f0;
-}

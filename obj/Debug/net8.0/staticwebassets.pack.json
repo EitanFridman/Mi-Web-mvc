@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\48242472\\Desktop\\Mi-Web-mvc\\wwwroot\\img\\bandera.png",
+      "PackagePath": "staticwebassets\\img\\bandera.png"
+    },
+    {
+      "Id": "C:\\Users\\48242472\\Desktop\\Mi-Web-mvc\\wwwroot\\img\\signoDeRecarga.jpg",
+      "PackagePath": "staticwebassets\\img\\signoDeRecarga.jpg"
+    },
+    {
       "Id": "C:\\Users\\48242472\\Desktop\\Mi-Web-mvc\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

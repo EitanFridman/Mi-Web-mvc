@@ -21,14 +21,14 @@ namespace Mi_Web_mvc.Models
             {
                 Titulo = "Proyecto 2",
                 Descripcion = "Proximamente",
-                ImagenUrl = "img/signoDeRecarga.jpg",
+                ImagenUrl = "/img/signoDeRecarga.jpg",
                 Link = ""
             },
             new Proyecto
             {
                 Titulo = "Proyecto 3",
                 Descripcion = "Proximamente",
-                ImagenUrl = "img/signoDeRecarga.jpg",
+                ImagenUrl = "/img/signoDeRecarga.jpg",
                 Link = ""
             }
         };
