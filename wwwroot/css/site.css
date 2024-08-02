@@ -73,6 +73,11 @@ p{
   transition: border 0.3s ease !important;
 }
 
+.card.mb-4:hover {
+  border: 2px solid #00adb5 !important; 
+  transition: border 0.3s ease !important;
+}
+
 .footer {
   background-color: #121212 !important ;
   color: #f0f0f0;

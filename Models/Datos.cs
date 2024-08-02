@@ -13,7 +13,7 @@ namespace Mi_Web_mvc.Models
             new Proyecto
             {
                 Titulo = "Proyecto 1",
-                Descripcion = "Un vistazo al último proyecto en el que elaboré junto a mi compañero una página web de turismo en Bulgaria para conocer todas sus atracciones e historia como para contactarse en busca de reservas de hoteles.",
+                Descripcion = "Este es un proyecto que hice para facilitar la informacion de Bulgaria.",
                 ImagenUrl = "img/bandera.png",
                 Link = "https://turismoenbulgaria.netlify.app/"
             },
@@ -37,18 +37,21 @@ namespace Mi_Web_mvc.Models
         {
             new Certificado
             {
-                Titulo = "HTML Y CSS",
-                Institucion = "Openbootcamp"
+                Institucion = "Universidad de Cambridge",
+                Titulo = "First Certificate",
+                Descripcion = "Certificado de nivel B2 ingles."
             },
             new Certificado
             {
-                Titulo = "Javascript",
-                Institucion = "Soy Dalto Youtube"
+                Institucion = "Universidad de Cambridge",
+                Titulo = "First Certificate",
+                Descripcion = "Certificado de nivel B2 ingles."
             },
             new Certificado
             {
-                Titulo = "Php y MySQL",
-                Institucion = "Bluuweb Youtube"
+                Institucion = "Universidad de Cambridge",
+                Titulo = "First Certificate",
+                Descripcion = "Certificado de nivel B2 ingles."
             }
         };
 
@@ -84,6 +87,7 @@ namespace Mi_Web_mvc.Models
     {
         public string Titulo { get; set; }
         public string Institucion { get; set; }
+        public string Descripcion { get; set; }
     }
 
     public class Idioma

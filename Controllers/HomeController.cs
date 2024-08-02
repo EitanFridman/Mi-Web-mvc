@@ -25,9 +25,9 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Privacy()
+        public IActionResult Proyectos()
     {
-        return View();
+        return View("Proyectos");
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

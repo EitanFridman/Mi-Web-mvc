@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<body>
+    <div id="projects" class="container">
+        <h2 class="section-title">Proyectos</h2>
+        <div class="row">
+            @foreach (var proyecto in ViewBag.Proyectos)
+            {
+                <div class="col-md-4">
+                    <div class="card proyecto mb-4">
+                        <img class="card-img-top" src="@proyecto.ImagenUrl" alt="@proyecto.Titulo">
+                        <div class="card-body proyecto-body">
+                            <h5 class="card-title">@proyecto.Titulo</h5>
+                            <p class="card-text">@proyecto.Descripcion</p>
+                            <a href="@proyecto.Link" class="btn btn-primary" target="_blank">Ver Proyecto</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</body>
+</html>
