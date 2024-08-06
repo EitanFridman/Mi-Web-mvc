@@ -1,0 +1,35 @@
+    <section id="certificates" class="container">
+    <h2 class="section-title">Certificados y Cursos</h2>
+        <div class="row">
+            @foreach (var certificado in ViewBag.Certificados)
+            {
+                <div class="col-md-4">
+                    <div class="card mb-3">
+                        <div class="card-header">@certificado.Institucion</div>
+                        <div class="card-body">
+                            <h5 class="card-title">@certificado.Titulo</h5>
+                            <p class="card-text">@certificado.Descripcion</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </section>
+
+    <section id="languages" class="container">
+        <h2 class="section-title">Idiomas</h2>
+        <div class="row">
+            @foreach (var idioma in ViewBag.Idiomas)
+            {
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="card-header">Idioma</div>
+                        <div class="card-body">
+                            <h5 class="card-title">@idioma.Nombre</h5>
+                            <p class="card-text">@idioma.Nivel</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </section>

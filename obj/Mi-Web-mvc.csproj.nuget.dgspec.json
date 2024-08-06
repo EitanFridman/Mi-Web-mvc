@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48242472\\Downloads\\juan\\Mi-Web-mvc\\Mi-Web-mvc.csproj": {}
+    "C:\\Users\\48242472\\Downloads\\Mi-Web-mvc\\Mi-Web-mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48242472\\Downloads\\juan\\Mi-Web-mvc\\Mi-Web-mvc.csproj": {
+    "C:\\Users\\48242472\\Downloads\\Mi-Web-mvc\\Mi-Web-mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48242472\\Downloads\\juan\\Mi-Web-mvc\\Mi-Web-mvc.csproj",
+        "projectUniqueName": "C:\\Users\\48242472\\Downloads\\Mi-Web-mvc\\Mi-Web-mvc.csproj",
         "projectName": "Mi-Web-mvc",
-        "projectPath": "C:\\Users\\48242472\\Downloads\\juan\\Mi-Web-mvc\\Mi-Web-mvc.csproj",
+        "projectPath": "C:\\Users\\48242472\\Downloads\\Mi-Web-mvc\\Mi-Web-mvc.csproj",
         "packagesPath": "C:\\Users\\48242472\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48242472\\Downloads\\juan\\Mi-Web-mvc\\obj\\",
+        "outputPath": "C:\\Users\\48242472\\Downloads\\Mi-Web-mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

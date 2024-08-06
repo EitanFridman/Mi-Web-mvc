@@ -14,19 +14,33 @@ namespace Mi_Web_mvc.Models
             {
                 Titulo = "Proyecto 1",
                 Descripcion = "Este es un proyecto que hice para facilitar la informacion de Bulgaria.",
-                ImagenUrl = "img/bandera.png",
+                ImagenUrl = "/img/bandera.png",
                 Link = "https://turismoenbulgaria.netlify.app/"
             },
             new Proyecto
             {
                 Titulo = "Proyecto 2",
+                Descripcion = "Este proyecto son 2 nav bars que se pueden usar de base para cualquier trabajo",
+                ImagenUrl = "/img/pc.png",
+                Link = "https://navbars-eitan-fridman.netlify.app/"
+            },
+            new Proyecto
+            {
+                Titulo = "Proyecto 3",
                 Descripcion = "Proximamente",
                 ImagenUrl = "/img/signoDeRecarga.jpg",
                 Link = ""
             },
             new Proyecto
             {
-                Titulo = "Proyecto 3",
+                Titulo = "Proyecto 4",
+                Descripcion = "Proximamente",
+                ImagenUrl = "/img/signoDeRecarga.jpg",
+                Link = ""
+            },
+            new Proyecto
+            {
+                Titulo = "Proyecto 5",
                 Descripcion = "Proximamente",
                 ImagenUrl = "/img/signoDeRecarga.jpg",
                 Link = ""

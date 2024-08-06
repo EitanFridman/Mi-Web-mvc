@@ -25,9 +25,18 @@ public class HomeController : Controller
         return View();
     }
 
-        public IActionResult Proyectos()
+    public IActionResult Proyectos()
     {
+        ViewBag.Proyectos = Datos.Proyectos;
+
         return View("Proyectos");
+    }
+    public IActionResult Certificados()
+    {
+        ViewBag.Certificados = Datos.Certificados;
+        ViewBag.Idiomas = Datos.Idiomas;
+        
+        return View("Certificados");
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

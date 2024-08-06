@@ -1,7 +1,21 @@
- body, html {
+html, body {
+  height: 100%;
+  margin: 0;
   background-color: #1b1b1b !important;
   color: #f0f0f0;
   font-family: 'Arial', sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1; 
 }
 
 .navbar {
@@ -12,7 +26,7 @@
   color: #f0f0f0;
 }
 
-p{
+p {
   color: #f0f0f0;
 }
 
@@ -68,18 +82,13 @@ p{
   bottom: .5rem;
 }
 
-.card.mb-3:hover {
-  border: 2px solid #00adb5 !important; 
-  transition: border 0.3s ease !important;
-}
-
-.card.mb-4:hover {
+.card.mb-3:hover, .card.mb-4:hover {
   border: 2px solid #00adb5 !important; 
   transition: border 0.3s ease !important;
 }
 
 .footer {
-  background-color: #121212 !important ;
+  background-color: #121212 !important;
   color: #f0f0f0;
   padding: 20px 0;
   text-align: center;

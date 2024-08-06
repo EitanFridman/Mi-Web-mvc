@@ -1,52 +1,13 @@
-﻿<!DOCTYPE html>
-<body>
-    <section id="about" class="container">
-        <h2 class="section-title">Sobre Mí</h2>
-        <p>@ViewBag.SobreMi</p>
-    </section>
+﻿
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <img src="https://via.placeholder.com/150" alt="Foto de Perfil">
+        <h1 class="display-4">Eitán Fridman</h1>
+        <p class="lead">Desarrollador Web y Artista Digital</p>
+    </div>
+</div>
 
-
-
-    <section id="certificates" class="container">
-    <h2 class="section-title">Certificados y Cursos</h2>
-        <div class="row">
-            @foreach (var certificado in ViewBag.Certificados)
-            {
-                <div class="col-md-4">
-                    <div class="card mb-3">
-                        <div class="card-header">@certificado.Institucion</div>
-                        <div class="card-body">
-                            <h5 class="card-title">@certificado.Titulo</h5>
-                            <p class="card-text">@certificado.Descripcion</p>
-                        </div>
-                    </div>
-                </div>
-            }
-        </div>
-    </section>
-
-    <section id="languages" class="container">
-        <h2 class="section-title">Idiomas</h2>
-        <div class="row">
-            @foreach (var idioma in ViewBag.Idiomas)
-            {
-                <div class="col-md-4">
-                    <div class="card mb-4">
-                        <div class="card-header">Idioma</div>
-                        <div class="card-body">
-                            <h5 class="card-title">@idioma.Nombre</h5>
-                            <p class="card-text">@idioma.Nivel</p>
-                        </div>
-                    </div>
-                </div>
-            }
-        </div>
-    </section>
-
-
-
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-
-</body>
-
-</html>
+<section id="about" class="container">
+    <h2 class="section-title">Sobre Mí</h2>
+    <p>@ViewBag.SobreMi</p>
+</section>
