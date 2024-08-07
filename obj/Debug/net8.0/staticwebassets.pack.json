@@ -9,12 +9,16 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\48242472\\Downloads\\Mi-Web-mvc\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
       "Id": "C:\\Users\\48242472\\Downloads\\Mi-Web-mvc\\wwwroot\\img\\bandera.png",
       "PackagePath": "staticwebassets\\img\\bandera.png"
+    },
+    {
+      "Id": "C:\\Users\\48242472\\Downloads\\Mi-Web-mvc\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\48242472\\Downloads\\Mi-Web-mvc\\wwwroot\\img\\nike.jpg",
+      "PackagePath": "staticwebassets\\img\\nike.jpg"
     },
     {
       "Id": "C:\\Users\\48242472\\Downloads\\Mi-Web-mvc\\wwwroot\\img\\pc.png",
@@ -23,6 +27,10 @@
     {
       "Id": "C:\\Users\\48242472\\Downloads\\Mi-Web-mvc\\wwwroot\\img\\signoDeRecarga.jpg",
       "PackagePath": "staticwebassets\\img\\signoDeRecarga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48242472\\Downloads\\Mi-Web-mvc\\wwwroot\\img\\yo.jpg",
+      "PackagePath": "staticwebassets\\img\\yo.jpg"
     },
     {
       "Id": "C:\\Users\\48242472\\Downloads\\Mi-Web-mvc\\wwwroot\\js\\site.js",

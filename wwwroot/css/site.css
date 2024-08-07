@@ -30,6 +30,12 @@ p {
   color: #f0f0f0;
 }
 
+.texto{
+  font-size: larger;
+}
+
+
+
 .jumbotron {
   background-color: #141414 !important;
   color: #f0f0f0 !important;
@@ -75,6 +81,7 @@ p {
 
 .card .card-body {
   background-color: #2a2a2a !important;
+  padding-top: 15px;
 }
 
 .proyecto-body {

@@ -4,7 +4,7 @@
             @foreach (var certificado in ViewBag.Certificados)
             {
                 <div class="col-md-4">
-                    <div class="card mb-3">
+                    <div class="card mb-2">
                         <div class="card-header">@certificado.Institucion</div>
                         <div class="card-body">
                             <h5 class="card-title">@certificado.Titulo</h5>
@@ -22,7 +22,7 @@
             @foreach (var idioma in ViewBag.Idiomas)
             {
                 <div class="col-md-4">
-                    <div class="card mb-4">
+                    <div class="card mb-2">
                         <div class="card-header">Idioma</div>
                         <div class="card-body">
                             <h5 class="card-title">@idioma.Nombre</h5>
